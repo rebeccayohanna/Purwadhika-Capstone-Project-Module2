@@ -1,7 +1,7 @@
 # Purwadhika-Capstone-Project-Module2
 
-** JCDSVL - Capstone Project Module 2
-** Nama : Yohanna Inawati Santoso
+**JCDSVL - Capstone Project Module 2**
+**Nama : Yohanna Inawati Santoso**
 
 Repository ini berisi tugas capstone project module 2 dengan details :
 
@@ -31,7 +31,7 @@ Terdapat 13 tabel pada database Northwind, yaitu:
 
 **Fokus utama dari analisis ini terdapat pada tabel Orders, OrderDetails, dan Shippers. Tabel lain akan digunakan sebagai penunjang informasi yang diperlukan untuk kedua tabel tersebut.**
 
-## ** Details Data Features yang Digunakan**
+## **Details Data Features yang Digunakan**
 Data yang disimpan pada variabel ```df``` merupakan data dari tabel ```order```, ```orderDetails```, ```shippers```, ```products``` dan ```categories```. Data ini menjadi data utama yang akan dianalisa lebih lanjut. Dari tabel tersebut, diambil beberapa kolom dengan informasi yang dianggap penting. Informasi tersebut adalah :
 
  - OrderID dari tabel orders
