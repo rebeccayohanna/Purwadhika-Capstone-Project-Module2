@@ -3,7 +3,7 @@
 **JCDSVL - Capstone Project Module 2**
 **Nama : Yohanna Inawati Santoso**
 
-Repository ini berisi tugas capstone project module 2 dengan details :
+Repository ini berisi tugas capstone project module 2 (Data Analytics) dengan details :
 
 ## **Context**
 
